@@ -2,6 +2,8 @@
 read -p "Enter the first number" num1
 read -p "Enter the second number" num2
 #Shell comperisions
+#here slightly some changes doing for my references in git bash for the file prg10.sh
+echo "get the changes for the num1 and num2 values:" 
 if ((num1>num2))
 then
   echo "Given number $num1 is bigger than $num2"
